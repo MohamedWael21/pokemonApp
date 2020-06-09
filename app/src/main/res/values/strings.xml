@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pokemon</string>
+    <string name="ability2_label">ability2 :</string>
+    <string name="ability_lablel">ability :</string>
+    <string name="height_label">height :</string>
+    <string name="id_label">ID :</string>
+    <string name="name_layout">Name :</string>
+</resources>
